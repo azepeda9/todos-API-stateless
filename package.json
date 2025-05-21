@@ -1,0 +1,14 @@
+{
+    "name": "todos-api-in-memory",
+    "version": "1.0.0",
+    "description": "A simple RESTful API for managing todos with a static frontend.",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^5.1.0"
+    }
+}
